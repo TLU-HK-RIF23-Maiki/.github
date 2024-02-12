@@ -1,7 +1,7 @@
 # Maiki's Programming Journey
 
 <div align="center">
-<img width="100%" height = "250px" src="https://pixabay.com/get/g818efdfaac5261693b6f94f434965fe263bc277f1d063e9b22dfa48a8ed2a956fcbee75801984e10e12e46772ced89d8b19aed53ad8593017ea6d1d2479f942d_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/Maiki-Kaljula/Maiki-Kaljula/blob/b10be31c0397b3fb1551ea224ea372069e70b714/images/flower-1283602_1280.jpg" alt="cover" />
 </div>
 
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
